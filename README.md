@@ -50,6 +50,10 @@ npm i @hello-pangea/dnd
   <img width="500" alt="Sixth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/a72779fe-cf99-441e-b973-0ff8974256d5">
 </p>
 
+##Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to contribute.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
