@@ -36,7 +36,7 @@ npm i @mui/icons-material
 npm i @mui/styles
 npm i react-router-dom
 npm i uuid
-npm i @hello-pangea/dnd
+npm i react-beautiful-dnd
 ```
 ## Preview
 <p>
