@@ -28,7 +28,6 @@ To start the app, run `npm start`. This will start the app on [http://localhost:
 - Archive notes: Users can archive notes to remove them from the main view.
 - Delete notes: Users can delete notes permanently.
 - Drag and drop: Users can rearrange the order of their notes by dragging and dropping them.
-- Automatic deletion: Deleted notes are automatically deleted after 7 days.
 
 ## Dependencies
 ```
