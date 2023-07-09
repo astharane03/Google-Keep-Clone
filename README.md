@@ -42,12 +42,12 @@ npm i @hello-pangea/dnd
 ```
 ## Preview
 <p>
-  <img width="400" alt="First (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/2f94b3b9-7936-43df-aaa3-6d38ee9fc2da">
-  <img width="400" alt="Second (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/163bb96b-6287-43cb-838e-051b46a25d2f">
-  <img width="400" alt="Third (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/cecbcacb-692a-4db6-8b95-756d6ac7b027">  
-  <img width="400" alt="Fourth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/3c6ad7dd-cfbd-4692-acc6-ba7a6a74d7c0">
-  <img width="400" alt="Fifth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/812cd8b5-1137-4f92-8698-2315a435cc57">
-  <img width="400" alt="Sixth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/a72779fe-cf99-441e-b973-0ff8974256d5">
+  <img width="500" alt="First (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/2f94b3b9-7936-43df-aaa3-6d38ee9fc2da">
+  <img width="500" alt="Second (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/163bb96b-6287-43cb-838e-051b46a25d2f">
+  <img width="500" alt="Third (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/cecbcacb-692a-4db6-8b95-756d6ac7b027">  
+  <img width="500" alt="Fourth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/3c6ad7dd-cfbd-4692-acc6-ba7a6a74d7c0">
+  <img width="500" alt="Fifth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/812cd8b5-1137-4f92-8698-2315a435cc57">
+  <img width="500" alt="Sixth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/a72779fe-cf99-441e-b973-0ff8974256d5">
 </p>
 
 # Getting Started with Create React App
