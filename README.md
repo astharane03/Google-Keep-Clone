@@ -10,7 +10,6 @@ This is a clone of Google Keep created using **React** and **Material UI**. It a
 - [Dependencies](#dependencies)
 - [Preview](#preview)
 - [Contributing](#contributing)
-- [Author](#author)
 
 ## Installation
 To run the project locally, follow these steps:
