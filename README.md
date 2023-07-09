@@ -14,7 +14,7 @@ This is a clone of Google Keep created using **React** and **Material UI**. It a
 ## Installation
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/astharane03/Google-Keep-Clone.git`
+1. Clone the repository: `git clone https://github.com/username/Google-Keep-Clone.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 
