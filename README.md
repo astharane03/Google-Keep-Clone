@@ -50,6 +50,6 @@ npm i @hello-pangea/dnd
   <img width="500" alt="Sixth (1)" src="https://github.com/astharane03/Google-Keep-Clone/assets/129269783/a72779fe-cf99-441e-b973-0ff8974256d5">
 </p>
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to contribute.
